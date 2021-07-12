@@ -43,7 +43,7 @@ function add(numbers) {
   
 }
 
-console.log( add([2,3,4]) );
+console.log('help');
 
-add([1,2,3])
+add([2,3,4,5,6,7])
 // console.log(add([1,2,3]));
