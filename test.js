@@ -36,14 +36,14 @@
 
 // isIsogram("Dermatoglyphics")// == true
 
-function add(numbers) {
+// function add(numbers) {
 
-  return numbers.reduce((a,b)=>a+b)
+//   return numbers.reduce((a,b)=>a+b)
 
   
-}
+// }
 
-console.log('help');
+// console.log('help');
 
-add([2,3,4,5,6,7])
+// add([2,3,4,5,6,7])
 // console.log(add([1,2,3]));
