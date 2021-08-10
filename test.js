@@ -10,19 +10,19 @@
 //   }
   
  
-//   digital_root(493193);
+  digital_root(493193);
   
-  //asa
-  // console.log('help');
+  
+  console.log('help');
 
-// function isIsogram(str) {
-//   if (str.length===1) {
-//     return true 
-//   }
-// if(/(\w)\1+/.test(str)){
-//   return false
+function isIsogram(str) {
+  if (str.length===1) {
+    return true 
+  }
+if(/(\w)\1+/.test(str)){
+  return false
 
-// }
+}
 
   //(/([a-zA-Z]).*?\1/).test(str) 
   
